@@ -1,9 +1,9 @@
-# Site-de-inscricao
+---
+
 # 📝 Site de Inscrição
 
 Este é um site simples de **inscrição de usuários**, desenvolvido com **HTML**, **CSS** e **JavaScript**. O objetivo é permitir que usuários preencham um formulário com seus dados, que são validados no navegador e exibidos na tela (ou enviados a um backend futuramente).
 
-## 📸 Preview
 
 ## 🚀 Funcionalidades
 
@@ -22,11 +22,12 @@ Este é um site simples de **inscrição de usuários**, desenvolvido com **HTML
 
 - HTML5
 - CSS3
-- JavaScript (puro/vanilla
+- JavaScript (puro/vanilla)
 
-##Autor
-Feito por Caleb Da Silva
-📄 Licença
+---
 
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+##🧞Autor
 
+Caleb Da Silva
+✉️contatocaleb2010@gmail.com
+♾️github.com/calebslv
