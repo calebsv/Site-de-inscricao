@@ -31,11 +31,11 @@ Este é um site simples de **inscrição de usuários**, desenvolvido com **HTML
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/seu-usuario/Site de inscricao.git
 
 2. Acesse a pasta do projeto:
 
-cd nome-do-repositorio
+cd site-de-inscricao
 
 
 3. Abra o arquivo index.html no navegador:
