@@ -63,12 +63,12 @@ Use a extensão Live Server no VS Code
 
 ---
 
-👤 Autor
+## Autor
 
-Nome: Caleb da Silva
-GitHub: github.com/calebslv
-E-mail: contatocaleb2010@email.com
-
+Feito por Caleb da Silva
+contato:
+[contatocaleb2010@gmail.com]
+GitHub: [@calebsv](https://github.com/calebsv)
 
 ---
 
