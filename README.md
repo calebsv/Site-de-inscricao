@@ -28,6 +28,6 @@ Este é um site simples de **inscrição de usuários**, desenvolvido com **HTML
 
 ##🧞Autor
 
-Caleb Da Silva
-✉️contatocaleb2010@gmail.com
-♾️github.com/calebslv
+-Caleb Da Silva
+-✉️contatocaleb2010@gmail.com
+-♾️github.com/calebslv
