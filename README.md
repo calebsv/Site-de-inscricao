@@ -23,3 +23,10 @@ Este é um site simples de **inscrição de usuários**, desenvolvido com **HTML
 - HTML5
 - CSS3
 - JavaScript (puro/vanilla
+
+##Autor
+Feito por Caleb Da Silva
+📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
