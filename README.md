@@ -31,7 +31,7 @@ Este é um site simples de **inscrição de usuários**, desenvolvido com **HTML
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Site de inscricao.git
+   git clone https://github.com/calebslv/Site de inscricao.git
 
 2. Acesse a pasta do projeto:
 
